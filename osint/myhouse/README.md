@@ -1,0 +1,9 @@
+# myhouse [easy]
+これ何住宅ってよばれてる？
+例:`bunaiCTF{なんちゃら住宅}`
+
+
+# writeup
+`bunaiCTF{旧下田家住宅}`
+
+[GoogleLens](https://lens.google.com/search?ep=gsbubb&hl=ja&p=AXAp4wjzIwEYVrLb2ycRN6kdC2KRhT8SatwVDO40nryaCRJxl5NdE_sX-QZ6ImUcexWNJp_d-gX6IJQ1aYwMR9g9ZJOYQj96VtUUmB6mR04I9FszyVNTBgIVeW0Dont3hBmycL67e-QMX7RtUm6QFPR3Dh81TZH0a2VoQekV3qRZjzgzogSsikqkgUbMas3Q7k4izEbRpuo3GWU95gdDwc9KAsFZ3dyHkhEa4udsi0V2s98vmwpJJJ-jy-ytle4-1c3lQPYOvE5NYr9PvxUBZ90Oh_sSPl2tFOfMdzXSCurPpnl7ib_JH1qtcEcRGVdAQ5lFGdZF2Ixj_OFxH0jUyt_qeJ_AyA%3D%3D#lns=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLG51bGwsIkVrY0tKREV3Tm1Zek1UQTBMVEZrWkRJdE5EQmpaQzFoTnpJeExUTTNNelkwT1dabE1USmhOeElmYzNsUWNucEVTMWREWm10V2QwMURZVjlYYUdaVlQxWjFRVzlsT0ZWU1p3PT0iLG51bGwsbnVsbCxudWxsXQ==)
