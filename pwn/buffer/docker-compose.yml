@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  ctf:
+    restart: always
+    build:
+      context: .
+    working_dir: /home/user
+    container_name: buffer_chall
+    ports:
+      - "30001:30001"

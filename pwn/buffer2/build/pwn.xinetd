@@ -1,0 +1,12 @@
+service pwn_buffer
+{
+	type = UNLISTED
+	protocol = tcp
+	wait = no
+	user = user
+	socket_type = stream
+	port = 30002
+	disable = no
+	server = /bin/sh
+    server_args = /home/user/start.sh
+}
