@@ -8,3 +8,7 @@
 ```
 hexedit chall
 ```
+
+```
+bunaiCTF{CanYouSeeTheBinaryWorld?}
+```
