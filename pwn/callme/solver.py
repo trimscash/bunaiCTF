@@ -9,7 +9,7 @@ context.terminal = ['terminator', '-e']
 binary_path="./vuln"
 
 if len(sys.argv) < 2:
-    io = remote("localhost",30003) 
+    io = remote("192.168.1.80",30003) 
 elif sys.argv[1]=="l":
     io = process(binary_path)
 elif sys.argv[1]=="d":

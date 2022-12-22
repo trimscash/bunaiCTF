@@ -26,7 +26,10 @@
 ### myhouse [easy]
 ### omoide [easy]
 ### mt [easy]
+### IWA [easy]
 ### mytown [medium]
 
 
 # misc
+### funnyIMG [easy]
+### synthesis [medium]
