@@ -31,3 +31,9 @@ githubに書いてあるwriteupは工事中です．Qiitaの記事をご覧く�
 # misc
 ### funnyIMG [easy]
 ### synthesis [medium]
+
+![screencapture-192-168-1-80-2022-12-23-19_28_49](https://user-images.githubusercontent.com/42578480/209422527-3edfdfb2-8696-46c8-a3ce-6afd6894b235.png)
+
+
+![screencapture-192-168-1-80-challenges-2022-12-23-19_27_17](https://user-images.githubusercontent.com/42578480/209422524-08911038-a35b-4dfe-bb6f-0ca0f90b78cb.png)
+
