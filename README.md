@@ -34,6 +34,8 @@ shttps://qiita.com/trimscash/items/e06ede13193fa8d48c02
 ### funnyIMG [easy]
 ### synthesis [medium]
 
+
+# gallery
 ![screencapture-192-168-1-80-2022-12-23-19_28_49](https://user-images.githubusercontent.com/42578480/209422527-3edfdfb2-8696-46c8-a3ce-6afd6894b235.png)
 
 
