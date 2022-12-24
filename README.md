@@ -7,7 +7,7 @@
 # writeupについて
 githubに書いてあるwriteupは工事中です．Qiitaの記事をご覧ください
 
-shttps://qiita.com/trimscash/items/e06ede13193fa8d48c02
+https://qiita.com/trimscash/items/e06ede13193fa8d48c02
 
 # pwn
 ### buffer [easy]
